@@ -22,6 +22,6 @@ TODO: write copy
 
 ## Contact me :iphone:
 
-- [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
+[linkedin]
 
 [linkedin]: https://www.linkedin.com/in/williamlindstedt
