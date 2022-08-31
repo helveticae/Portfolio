@@ -1,4 +1,4 @@
-
+![alt text](Assets/banner.png)
 # William Akilles Lindstedt
 AI & ML Student interested in data science.
 
