@@ -1,4 +1,4 @@
-![alt text](Assets/banner2.png)
+![alt text](Assets/banner3.png)
 TODO: Fix banner, uh, write copy.
 # William Akilles Lindstedt
 AI & ML Student interested in data science.
