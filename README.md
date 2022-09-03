@@ -29,5 +29,5 @@ Currently participating in global capitalism, but I mostly like [construction an
 ### Important links
 ---
 [linkedin](https://www.linkedin.com/in/williamlindstedt) 
-| [Rabbits in Australia](https://en.wikipedia.org/wiki/Rabbits_in_Australia")
+| [Rabbits in Australia](https://en.wikipedia.org/wiki/Rabbits_in_Australia)
                            | [Fourier series](https://en.wikipedia.org/wiki/Fourier_series)
