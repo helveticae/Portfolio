@@ -22,7 +22,7 @@ Currently participating in global capitalism, but I mostly like [construction an
 
 <br>
 
-<span style="font-family:Georgia;">Shoutout to my man Euler and my homeboy Aristotle. Wittgenstein real MVP. Sokrates was a fucking asshole. Well, I guess most guys throughout history were assholes. Carl Jung was kinda cool though. One luv M.C. Escher, Wagner and Edvard Grieg. Pollock and Warhol real incel losers.</span>
+<span style="font-family:Georgia;">Shoutout to my man Euler and my homeboy Aristotle. Wittgenstein real MVP. Socrates was a fucking asshole. Well, I guess most guys throughout history were assholes. Carl Jung was kinda cool though. One luv M.C. Escher, Wagner and Edvard Grieg. Pollock and Warhol real incel losers.</span>
 
 <br>
 
