@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Willam Akilles Lindstedt!
 
 ## 🎓 Academic Background & Studies
-- **2013:** Mittuniversitetet - Photojournalism 
 - **2019:** IHM Business School - Digital Marketing
 - **2023:** IT-Högskolan - AI & Machine Learning
 
