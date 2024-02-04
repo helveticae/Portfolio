@@ -1,33 +1,46 @@
-![idk about this one, it will do for now](Assets/banner3.png)
-### William Akilles Lindstedt
-AI & ML Student interested in data science.
+# 👋 Hi, I'm Willam Akilles Lindstedt!
 
----
+## 🎓 Academic Background & Studies
+- **2013:** Mittuniversitetet - Photojournalism 
+- **2019:** IHM Business School - Digital Marketing
+- **2023:** IT-Högskolan - AI & Machine Learning
 
-Junior programmer with passion for design, music and really any kind of art, including math, and sometimes, although rarely, post-post modern irony.
+## 💡 Professional Experience & Jobs
+- **Webhelp Nordic:** Second Line Support Engineer
+- **MAY Strategies:** Creative Director
+- **Plejd AB:** Developer & Deep Learning Specialist
+- **BrightSkills:** UX Designer & Data Engineer
 
-Currently participating in global capitalism, but I mostly like [construction and management simulations](https://en.wikipedia.org/wiki/Construction_and_management_simulation), [old-school RPGs](https://en.wikipedia.org/wiki/Pokémon_(video_game_series)#First_generation_(1996–1999)) and [4X-games](https://en.wikipedia.org/wiki/4X). Oh and I guess Binance is a game by now.
-<br>
+## 🤾‍♂️ Currently
+- I develop apps at BrightSkills and study at ITHS in Sweden.
+- I collaborate with the frontend dev qwonpos
+- I'm producing [new electronic music](https://soundcloud.com/lindstedt)
 
-### GitHub portfolio
+## 🔭 I’m currently focused on:
+- Large Language Models
+- Learning UX & Power BI
+  
+## 🌱 I’m currently learning:
+- Microsoft Power Apps & Power BI
+- New Python frameworks and libraries
+- Various mathematical topics
 
-| Repo                           | Description                        |
-| ------------------------------ | ---------------------------------- |
-| [Python][py]            | Projects in Python              |
-| [Artificial intellignece][py]         | Projects on AI
-| [Legendary Waffle][lw] | Game projcet in .py          |
+## 🔍 Interests
+- 🧮 Mathematics
+- 🤖 Artificial Intelligence
+- :nut_and_bolt: Machine Learning
+- :chart_with_upwards_trend: Data Science
+- :computer: Simulations
+- :family: Agent Based Modeling
+- :heart: Music & Audio Engineering
 
-[py]: https://github.com/helveticae/ITHS
-[lw]: https://github.com/helveticae/legendary-waffle
+## 💬 Looking to Collaborate
+I'm always open to collaborating on projects. If you have an idea or a project you think might interest me, don't hesitate to reach out!
 
-<br>
 
-<span style="font-family:Georgia;">Shoutout to my man Euler and my homeboy Aristotle. Wittgenstein real MVP. Socrates was a fucking asshole. Well, I guess most guys throughout history were assholes. Carl Jung was kinda cool though. One luv M.C. Escher, Wagner and Edvard Grieg. Pollock and Warhol real incel losers.</span>
-
-<br>
-
-### Important links
----
-[linkedin](https://www.linkedin.com/in/williamlindstedt) 
-| [Rabbits in Australia](https://en.wikipedia.org/wiki/Rabbits_in_Australia)
-                           | [Fourier series](https://en.wikipedia.org/wiki/Fourier_series)
+## 📫 How to Reach Me
+- GitHub: @wlinds
+- LinkedIn: [https://www.linkedin.com/in/williamlindstedt](https://www.linkedin.com/in/williamlindstedt)
+- X (Twitter): [wlinds_](https://twitter.com/wlinds_)
+- Email: [w.lindstedt@gmail.com](mailto:w.lindstedt@gmail.com)
+- Website: [https://wlinds.github.io](https://wlinds.github.io)
